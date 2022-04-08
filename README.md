@@ -1,2 +1,2 @@
-# sshee0123-Health_Examination_Information_Analysis
+# Health_Examination_Information_Analysis
 KB_PJT_건강검진정보분석_데이터분석
